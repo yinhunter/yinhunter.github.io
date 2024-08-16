@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "//yinhunter.github.io/static/css/main.44883731.css",
-    "main.js": "//yinhunter.github.io/static/js/main.8c9e6678.js",
+    "main.js": "//yinhunter.github.io/static/js/main.e2d692b3.js",
     "static/media/3.jpg": "//yinhunter.github.io/static/media/3.c6b7cd9a9c45dc3d87b4.jpg",
     "static/media/2.jpg": "//yinhunter.github.io/static/media/2.2eba5c9d3f25390e2107.jpg",
     "static/media/4.jpg": "//yinhunter.github.io/static/media/4.66dc417a15638b0eb0be.jpg",
@@ -15,10 +15,10 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "//yinhunter.github.io/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "//yinhunter.github.io/index.html",
     "main.44883731.css.map": "//yinhunter.github.io/static/css/main.44883731.css.map",
-    "main.8c9e6678.js.map": "//yinhunter.github.io/static/js/main.8c9e6678.js.map"
+    "main.e2d692b3.js.map": "//yinhunter.github.io/static/js/main.e2d692b3.js.map"
   },
   "entrypoints": [
     "static/css/main.44883731.css",
-    "static/js/main.8c9e6678.js"
+    "static/js/main.e2d692b3.js"
   ]
 }
