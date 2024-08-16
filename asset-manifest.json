@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.f186057a.css",
-    "main.js": "./static/js/main.fa98b07d.js",
-    "static/media/3.jpg": "./static/media/3.c6b7cd9a9c45dc3d87b4.jpg",
-    "static/media/2.jpg": "./static/media/2.2eba5c9d3f25390e2107.jpg",
-    "static/media/4.jpg": "./static/media/4.66dc417a15638b0eb0be.jpg",
-    "static/media/6.jpg": "./static/media/6.0a2d8341b91a7b226014.jpg",
-    "static/media/5.jpg": "./static/media/5.e639a88048370ae3d33a.jpg",
-    "static/media/1.jpg": "./static/media/1.aaad0695fc06458f8b4e.jpg",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "./static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "./static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "./static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "./static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "./static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "./index.html",
-    "main.f186057a.css.map": "./static/css/main.f186057a.css.map",
-    "main.fa98b07d.js.map": "./static/js/main.fa98b07d.js.map"
+    "main.css": "//yinhunter.github.io/static/css/main.44883731.css",
+    "main.js": "//yinhunter.github.io/static/js/main.2441eb5a.js",
+    "static/media/3.jpg": "//yinhunter.github.io/static/media/3.c6b7cd9a9c45dc3d87b4.jpg",
+    "static/media/2.jpg": "//yinhunter.github.io/static/media/2.2eba5c9d3f25390e2107.jpg",
+    "static/media/4.jpg": "//yinhunter.github.io/static/media/4.66dc417a15638b0eb0be.jpg",
+    "static/media/6.jpg": "//yinhunter.github.io/static/media/6.0a2d8341b91a7b226014.jpg",
+    "static/media/5.jpg": "//yinhunter.github.io/static/media/5.e639a88048370ae3d33a.jpg",
+    "static/media/1.jpg": "//yinhunter.github.io/static/media/1.aaad0695fc06458f8b4e.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "//yinhunter.github.io/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "//yinhunter.github.io/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "//yinhunter.github.io/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "//yinhunter.github.io/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "//yinhunter.github.io/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "//yinhunter.github.io/index.html",
+    "main.44883731.css.map": "//yinhunter.github.io/static/css/main.44883731.css.map",
+    "main.2441eb5a.js.map": "//yinhunter.github.io/static/js/main.2441eb5a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f186057a.css",
-    "static/js/main.fa98b07d.js"
+    "static/css/main.44883731.css",
+    "static/js/main.2441eb5a.js"
   ]
 }
